@@ -1,6 +1,6 @@
 name: Jekyll Themes
 url: https://julymars.github.io
-baseurl: /jekyllthemes
+baseurl: /jekyllthemes/
 description: Insert tagline here
 
 permalink: /themes/:title/
